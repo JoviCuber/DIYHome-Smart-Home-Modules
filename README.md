@@ -1,5 +1,7 @@
 MADE BY CHATGPT, ANY INFORMATION COULD BE FALSE
+
 CHATGPT BILAN YOZILGAN, MA'LUMOT NOTO'G'RI BO'LISHI MUMKIN
+
 СДЕЛАНО CHATGPT, ИНФОРМАЦИЯ МОЖЕТ БЫТЬ НЕВЕРНА
 
 # DIYHome Smart Home Modules
